@@ -14,7 +14,7 @@
 
 ### 🌐 Socials:
 
-* **X (Twitter):** [@Zwtzylol](https://x.com/Zwtzylol)
+* **Twitter:** [@Zwtzylol](https://x.com/Zwtzylol)
 * **Discord:** `7ds5`
 
 boring README ik idc
