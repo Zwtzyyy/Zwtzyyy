@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,vscode,typescript,c,cpp,rust" />
+</p>
 
-<!--
-**Zwtzyyy/Zwtzyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### ⚡ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Focus:** Software Engineering & Game Modding
+* **Gaming / Modding Scene:** TLOU2, Resident Evil, Minecraft, Firewatch, L4D2
+* **Current Stack:** Python, TypeScript, Rust, C, and C++
+  
+---
+
+### 🌐 Socials:
+
+* **X (Twitter):** [@Zwtzylol](https://x.com/Zwtzylol)
+* **Discord:** `7ds5`
+
+boring README ik idc
