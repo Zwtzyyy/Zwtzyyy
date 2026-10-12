@@ -9,7 +9,7 @@
 * **Focus:** Software Engineering & Game Modding
 * **Gaming / Modding Scene:** TLOU2, Resident Evil, Minecraft, Firewatch, L4D2
 * **Current Stack:** Python, TypeScript, Rust, C, and C++
-  
+* i dont like open sourcing my shit but i hope this will make me do that  
 ---
 
 ### 🌐 Socials:
