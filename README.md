@@ -5,10 +5,10 @@
 ---
 
 ### Projects I Made:
-Resident Evil 2 Remake (2019) Multiplayer Mod: https://github.com/Zwtzyyy/Resident-Evil-2-Multiplayer
-Working on Resident Evil 3 Multiplayer
-Working on Firewatch Multiplayer Mod
-Working on L4D2 Project
+* Resident Evil 2 Remake (2019) Multiplayer Mod: https://github.com/Zwtzyyy/Resident-Evil-2-Multiplayer
+* Working on Resident Evil 3 Multiplayer
+* Working on Firewatch Multiplayer Mod
+* Working on L4D2 Project
 ---
 
 ### ⚡ About Me
