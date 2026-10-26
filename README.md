@@ -9,6 +9,7 @@
 * Working on Resident Evil 3 Multiplayer
 * Working on Firewatch Multiplayer Mod
 * Working on L4D2 Project
+* Working on Rise Of The Tomb Raider Multiplayer Mod
 ---
 
 ### ⚡ About Me
