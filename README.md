@@ -10,6 +10,7 @@
 * Working on Firewatch Multiplayer Mod
 * Working on L4D2 Project
 * Working on Rise Of The Tomb Raider Multiplayer Mod
+* Working on The Last Of Us II Multiplayer/Co-op (like 90% done)
 ---
 
 ### ⚡ About Me
