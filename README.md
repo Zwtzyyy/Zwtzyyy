@@ -6,11 +6,11 @@
 
 ### Projects I Made:
 * Resident Evil 2 Remake (2019) Multiplayer Mod: https://github.com/Zwtzyyy/Resident-Evil-2-Multiplayer
+* Made Firewatch Multiplayer Mod: https://github.com/Zwtzyyy/Shoshone-Co-op-Firewatch
 * Working on Resident Evil 3 Multiplayer
-* Working on Firewatch Multiplayer Mod
 * Working on L4D2 Project
-* Working on Rise Of The Tomb Raider Multiplayer Mod
-* Working on The Last Of Us II Multiplayer/Co-op (like 90% done)
+* Working on Rise Of The Tomb Raider Multiplayer Mod ( progress: https://www.youtube.com/watch?v=MUBFmgu1LVw )
+* Working on The Last Of Us II Multiplayer/Co-op ( like 90% done )
 ---
 
 ### ⚡ About Me
